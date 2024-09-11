@@ -1,5 +1,6 @@
 # Bit-depth_conversion
 This is the code implementation of "Unsupervised conversion method of high bit depth remote sensing images using contrastive learning"
+![新建 Microsoft PowerPoint 演示文稿](https://github.com/user-attachments/assets/1c0f9208-8a77-4126-98e4-65db55c97037)
 
 ## Prerequisites
 - Linux or macOS
