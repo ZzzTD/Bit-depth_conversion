@@ -8,7 +8,7 @@ This is the code implementation of "Unsupervised conversion method of high bit d
 - CPU or NVIDIA GPU + CUDA CuDNN
 
 ### Update log
-- 5/28/2025: Uploaded seamless stitching post-processing code
+- 5/28/2025: Uploaded seamless stitching post-processing code and Updated dataset.
 - 9/11/2024: Added related codes.
 
 ### Train and Test
